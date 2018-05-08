@@ -1,0 +1,2 @@
+# ArqSoftware_Singleton
+ArqSoftware_Singleton
